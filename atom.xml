@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://t3ls.github.io</id>
+    <title>T3LS の BLOG</title>
+    <updated>2022-10-10T10:27:16.977Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://t3ls.github.io"/>
+    <link rel="self" href="https://t3ls.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://t3ls.github.io/images/avatar.png</logo>
+    <icon>https://t3ls.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, T3LS の BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://t3ls.github.io/post/hello-world/</id>
+        <link href="https://t3ls.github.io/post/hello-world/">
+        </link>
+        <updated>2022-10-10T10:11:09.000Z</updated>
+        <content type="html"><![CDATA[<p>init commit</p>
+]]></content>
+    </entry>
+</feed>
